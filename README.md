@@ -1,1 +1,1 @@
-# Terminologies-of-LLM
+# TerminologyLLM
